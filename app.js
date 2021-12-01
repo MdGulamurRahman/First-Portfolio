@@ -62,14 +62,14 @@ particlesJS('hero',
       },
       "line_linked": {
         "enable": true,
-        "distance": 150,
+        "distance": 250,
         "color": "#ffffff",
         "opacity": 0.4,
         "width": 1
       },
       "move": {
         "enable": true,
-        "speed": 6,
+        "speed": 5,
         "direction": "none",
         "random": false,
         "straight": false,

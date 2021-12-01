@@ -473,7 +473,7 @@ a:hover {
   color: #fff;
 }
 #header .logo img {
-  max-height: 40px;
+  max-height: 60px;
 }
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.9);
@@ -695,6 +695,7 @@ a:hover {
   height: 100vh;
   position: relative;
   color: #fff;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.87), rgba(0, 0, 0, 0.884))
 }
 .hero .hero-content {
   text-align: center;
